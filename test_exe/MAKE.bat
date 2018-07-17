@@ -1,0 +1,1 @@
+pyinstaller --onefile ex5.py --name mygame
